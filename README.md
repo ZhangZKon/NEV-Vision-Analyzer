@@ -33,7 +33,6 @@ A multimodal monitoring system for new-energy vehicle (NEV) companies, combining
 
 ## 📂 Project Structure
 
-```text
 NEV-Vision-Analyzer/
 ├── main.py                  # Agent core logic & CLI entry point
 ├── config.py                # System settings & API Key configurations
