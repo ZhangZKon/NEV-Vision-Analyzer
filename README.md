@@ -32,7 +32,7 @@ A multimodal monitoring system for new-energy vehicle (NEV) companies, combining
 - **Face Recognition**: `face_recognition` (dlib) for matching known EV founders/executives.
 
 ## 📂 Project Structure
-
+```text
 NEV-Vision-Analyzer/
 ├── main.py                  # Agent core logic & CLI entry point
 ├── config.py                # System settings & API Key configurations
@@ -42,7 +42,7 @@ NEV-Vision-Analyzer/
 ├── models/
 │   └── sentiment_model_bert/# Custom trained BERT model directory
 └── README.md                # Project documentation
-
+```
 ## Environment
 - Python 3.9+ (recommended)
 - PyTorch / TensorFlow (depending on implementation)
